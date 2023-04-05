@@ -21,7 +21,7 @@ JOBS = [
         "salary": "22.000$",
         "location": "Warsaw, Poland"
     },
-]https://github.com/sobol3/job-offers
+]
 
 
 @app.route("/")
